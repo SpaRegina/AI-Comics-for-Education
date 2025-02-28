@@ -20,5 +20,14 @@
 
 ## Установка и запуск
 1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/ваш-username/AI-Comics-for-Education.git
+
+2. Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
    
-   git clone https://github.com/SpaRegina/AI-Comics-for-Education.git  
+3. Запустите веб-приложение:
+   ```bash
+   python app.py 
+   
