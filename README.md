@@ -20,5 +20,5 @@
 
 ## Установка и запуск
 1. Клонируйте репозиторий:
-
-git clone https://github.com/ваш-username/AI-Comics-for-Education.git
+   
+   git clone https://github.com/ваш-username/AI-Comics-for-Education.git
